@@ -1,4 +1,4 @@
-# Hello World - Next JS
+# Hello World - Next JS - Buehrer
 
 Simple Next JS project provided by AppSeed. For newcomers, **Next JS** is a popular web framework built on top of React that provides out-of-the-box many hot features used in modern web development: static and server rendering, smart bundling, Typescripts support without a complex configuration.  
 
