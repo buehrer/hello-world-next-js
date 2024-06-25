@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/app-generator/hello-world-next-js.git"
+        "url": "git+https://github.com/buehrer/hello-world-next-js.git"
     },
     "keywords": [
         "nextjs",
@@ -20,9 +20,9 @@
     "author": "AppSeed",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/app-generator/hello-world-next-js/issues"
+        "url": "https://github.com/buehrer/hello-world-next-js/issues"
     },
-    "homepage": "https://github.com/app-generator/hello-world-next-js#readme",
+    "homepage": "https://github.com/buehrer/hello-world-next-js#readme",
     "dependencies": {
         "next": "^10.2.3",
         "react": "^17.0.2",
